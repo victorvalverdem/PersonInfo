@@ -1,8 +1,11 @@
 public class Principal {
-  public static void main(){
+  public static void main(String[] args){
     Persona p1 = new Persona();
     p1.nombre = "Victor";
-    p1.cedula = 123:
+    p1.cedula = 123;
+    System.out.println(p1);
+    p1.superheroe = "Daredevil";
+    System.out.println(p1.superheroe);
     System.out.println(p1);
   }
 }
