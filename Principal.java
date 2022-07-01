@@ -5,7 +5,7 @@ public class Principal{
         p1.nombre = "Victor";
         p1.cedula = "567";
         p1.superheroe = "Daredevil";
-        p1.villano = "Doom";
+        p1.sidekick = "Spiderman";
         System.out.println(p1);
         
     }
