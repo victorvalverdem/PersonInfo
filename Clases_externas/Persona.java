@@ -1,7 +1,7 @@
 package Clases_externas;
 public class Persona{
     public String nombre;
-    public int cedula;
+    public String cedula;
     public String superheroe;
     public String villano;
   
